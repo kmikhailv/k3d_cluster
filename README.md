@@ -6,3 +6,4 @@ git checkout -b development
 git add README.md
 git commit 
 git checkout -b main
+git merge development
